@@ -20,13 +20,11 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aura-zero&show_icons=true&locale=en" alt="aura-zero" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aura-zero&" alt="aura-zero" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aura-zero&show_icons=true&locale=en&layout=compact" alt="aura-zero" /></p>
+
 
 ## ⚡ GITHUB STATS :
 <div align=center>
-<a href="http://www.github.com/aura-zero"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=aura-zero&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Abhishek's GitHub stats" /></a>
+<a href="http://www.github.com/aura-zero"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=aura-zero&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" alt="Abhishek's GitHub stats" /></a>
 
 <a href="http://www.github.com/aura-zero"><img align="right" width=390 height=270 src="https://github-readme-streak-stats.herokuapp.com/?user=aura-zero&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
