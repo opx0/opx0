@@ -26,9 +26,9 @@
 
 ## ⚡ GITHUB STATS :
 <div align=center>
-<a href="http://www.github.com/bewithsnehasish"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=bewithsnehasish&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="bewithsnehasish's GitHub stats" /></a>
+<a href="http://www.github.com/aura-zero"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=aura-zero&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Abhishek's GitHub stats" /></a>
 
-<a href="http://www.github.com/bewithsnehasish"><img align="right" width=390 height=270 src="https://github-readme-streak-stats.herokuapp.com/?user=bewithsnehasish&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/aura-zero"><img align="right" width=390 height=270 src="https://github-readme-streak-stats.herokuapp.com/?user=aura-zero&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/bewithsnehasish" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bewithsnehasish&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
+<a href="https://github.com/aura-zero" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aura-zero&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
 </div>
