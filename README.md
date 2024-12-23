@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Abhishek Yadav</h1>
+<h2>Hi 👋, I'm Abhishek Yadav</h1>
 <p>A Fullstack Web Developer and Android Developer</p>
-## ⚡ GITHUB STATS :
+<h2> ⚡ GITHUB STATS </h2>
 <div align=center>
 <a href="http://www.github.com/aura-zero"><img align="left" width=360 height=240 src="https://github-readme-stats.vercel.app/api?username=aura-zero&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=1f2335&hide_border=true&locale=en" alt="Abhishek's GitHub stats" /></a>
 
