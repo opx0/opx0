@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abhishek Yadav</h1>
-<p>A passionate Fullstack developer</p>
+<p>A Fullstack Web Developer and Android Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -23,3 +23,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aura-zero&show_icons=true&locale=en" alt="aura-zero" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aura-zero&" alt="aura-zero" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aura-zero&show_icons=true&locale=en&layout=compact" alt="aura-zero" /></p>
+
+## ⚡ GITHUB STATS :
+<div align=center>
+<a href="http://www.github.com/bewithsnehasish"><img width=390 height=270 align="left" src="https://github-readme-stats.vercel.app/api?username=bewithsnehasish&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="bewithsnehasish's GitHub stats" /></a>
+
+<a href="http://www.github.com/bewithsnehasish"><img align="right" width=390 height=270 src="https://github-readme-streak-stats.herokuapp.com/?user=bewithsnehasish&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/bewithsnehasish" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bewithsnehasish&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
+</div>
