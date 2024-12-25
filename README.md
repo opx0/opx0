@@ -8,3 +8,4 @@
 
 <a href="https://github.com/aura-zero" align="center"><img width=360  align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aura-zero&&bg_color=1f2335&hide=HTML&langs_count=9&layout=compact&theme=react&border_radius=9&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="Top Languages" /></a>
 </div>
+![Metrics](https://metrics.lecoq.io/aura-zero?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata)
