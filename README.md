@@ -17,21 +17,17 @@
   </a>
 </div>
 
-<!-- Gradient Border Container -->
-<div align="center">
-  <svg width="800" height="200">
-    <defs>
-      <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" style="stop-color:#6a11cb;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#2575fc;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect x="5" y="5" width="790" height="190" rx="15" ry="15" fill="#0d1117" stroke="url(#borderGradient)" stroke-width="5" />
-    <foreignObject x="20" y="20" width="760" height="160">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="color:white; text-align:center; font-family:JetBrains Mono, monospace;">
-        <p>[Booting Owl Unit 2B] | [BLACK BOX: Chillin'] | [MEMORY UNIT: Vibing] | [TACTICAL SUPPORT: Sending it] | [Protocol: Crack Mode Enabled]</p>
-        <p>[Initiating Final Protocol] | All things start and end for a reason | We vibe in a loop of life and death | Is this a curse or just a glitch? | [POD_153: Backup Complete] | [POD_042: Archived and Safe] | [Long Live Mankind]</p>
-      </div>
-    </foreignObject>
-  </svg>
+<div align="center" style="
+  padding: 10px;
+  border-radius: 10px;
+  border: 4px solid transparent;
+  background: linear-gradient(#0d1117, #0d1117) padding-box, 
+              linear-gradient(135deg, #ff00ff, #7700ff, #0033ff) border-box;
+  box-shadow: 0px 0px 10px rgba(255, 0, 255, 0.2);
+">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[Booting+Owl+Unit+2B];[BLACK+BOX:+Chillin'];[MEMORY+UNIT:+Vibing];[TACTICAL+SUPPORT:+Sending+it];[Protocol:+Crack+Mode+Enabled]" />
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&repeat=true&lines=[Initiating+Final+Protocol];.............................;All+things+start+and+end+for+a+reason;We+vibe+in+a+loop+of+life+and+death;Is+this+a+curse+or+just+a+glitch%3F;.............................;[POD_153:+Backup+Complete];[POD_042:+Archived+and+Safe];[Long+Live+Mankind]" />
+
 </div>
