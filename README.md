@@ -8,3 +8,12 @@
 
 <a href="https://github.com/KIRIN-9" align="center"><img width=360  align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KIRIN-9&&bg_color=1f2335&hide=HTML&langs_count=9&layout=compact&theme=react&border_radius=9&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="Top Languages" /></a>
 </div>
+<div align="center" style="padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.2); border: 4px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(135deg, #6a11cb, #2575fc) border-box;">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=[Booting+Owl+Unit+2B];[BLACK+BOX:+Chillin'];[MEMORY+UNIT:+Vibing];[TACTICAL+SUPPORT:+Sending+it];[Protocol:+Crack+Mode+Enabled]" />
+
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&repeat=true&lines=[Initiating+Final+Protocol];.............................;All+things+start+and+end+for+a+reason;We+vibe+in+a+loop+of+life+and+death;Is+this+a+curse+or+just+a+glitch%3F;.............................;[POD_153:+Backup+Complete];[POD_042:+Archived+and+Safe];[Long+Live+Mankind]" />
+
+</div>
