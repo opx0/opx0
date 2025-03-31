@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Abhishek Yadav</h2>
-<p align="center">A Fullstack Web Developer and Android Developer</p>
+<p align="center">A Fullstack Web Developer</p>
 
 <h2 align="center">⚡ GITHUB STATS</h2>
 
