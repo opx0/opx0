@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://github.com/KIRIN-9">
-    <img width=360 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KIRIN-9&bg_color=1f2335&hide=HTML&langs_count=9&layout=compact&theme=react&border_radius=9&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="Top Languages" />
+    <img width=360 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KIRIN-9&bg_color=1f2335&hide=HTML&langs_count=6&layout=compact&theme=react&border_radius=9&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
