@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="http://www.github.com/opx0">
-    <img width=420 height=195 src="https://github-readme-stats.vercel.app/api?username=opx0&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged&hide=stars,followers,contribs&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&border_radius=15&hide_border=false&border_color=7dcfff&custom_title=%20GitHub%20Stats&rank_icon=github&line_height=21&number_format=short" alt="GitHub Stats" />
+    <img width=420 height=195 src="https://github-readme-stats.vercel.app/api?username=opx0&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,discussions_answered&hide=stars,followers,contribs&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26&border_radius=15&hide_border=false&border_color=7dcfff&custom_title=%20GitHub%20Stats&rank_icon=github&line_height=21&number_format=short" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/opx0">
