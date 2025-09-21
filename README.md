@@ -1,5 +1,6 @@
-<h2 align="center">Hi 👋, I'm Abhishek Yadav</h2>
-<p align="center">A Fullstack Web Developer</p>
+<h2 align="center">Abhishek Yadav</h2>
+<h3 align="center">Fullstack Developer • AI Applications • System Architecture</h3>
+
 
 <div align="center">
   <a href="http://www.github.com/opx0">
