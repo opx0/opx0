@@ -1,5 +1,5 @@
 <h2 align="center">Abhishek Yadav</h2>
-<h3 align="center">Fullstack Developer • AI Applications • System Architecture</h3>
+<h3 align="center">Fullstack Developer • System Architecture</h3>
 
 
 <div align="center">
