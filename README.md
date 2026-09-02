@@ -1,18 +1,13 @@
-<h3 align="center">Fullstack Engineer • Systems Architecture</h3>
-<div align="center">
-  <a href="https://github.com/opx0">
-    <img width="100%" height="200"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opx0&theme=tokyonight&border_radius=15&border_color=7dcfff" />
-  </a>
-</div>
+# Abhishek Yadav
 
-<div align="center">
-  <a href="https://github.com/opx0">
-    <img width="55%" height="200"
-      src="https://streak-stats.demolab.com?user=opx0&theme=tokyonight&border_radius=15&border=7dcfff&background=1a1b26&ring=bb9af7&fire=7aa2f7&currStreakLabel=c0caf5" />
-  </a>
-  <a href="https://github.com/opx0">
-    <img width="40%" height="200"
-      src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=opx0&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide=html,css,makefile&bg_color=1a1b26&border_radius=15&border_color=7dcfff&title_color=7aa2f7&text_color=c0caf5&custom_title=TECH%20STACK%20DISTRIBUTION" />
-  </a>
-</div>
+Backend / systems engineer. Final-year CS (2027). I build production systems and contribute eBPF fixes to [kmesh](https://github.com/kmesh-net/kmesh) (CNCF).
+
+## Work worth clicking
+
+- **[Repomind](https://repomind.codeflixlabs.com)** — coursework + AI-grading platform I built solo, live in production for a university CSE department. Next.js, PostgreSQL/Prisma (53 models), Inngest job queues, dual-backend AI analysis with automatic failover, Gale–Shapley project allocation, 760+ tests, health-check-gated deploy rollback. *(Repo private — client work; ask me anything about it.)*
+- **[Agent Visa](https://github.com/opx0/agent-visa)** — scoped, expiring, revocable credentials for AI agents over MCP, with cascade revocation and a live human-approval console. [Live demo](https://ego.opxz.dev/). Python, FastMCP, FastAPI.
+- **[kmesh PR #1938](https://github.com/kmesh-net/kmesh/pull/1938)** — root-caused a kernel-native-mode bug that flushed every cluster to the eBPF map with ID 0, collapsing per-cluster circuit-breaker stats; fix under review. Go, eBPF.
+
+## Contact
+
+[akyv2.5@gmail.com](mailto:akyv2.5@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhishekyadav7)
